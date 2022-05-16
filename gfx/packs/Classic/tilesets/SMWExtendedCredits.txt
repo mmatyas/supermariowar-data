@@ -5,4 +5,6 @@ Spriters Resource                               - Super Mario World Rips
 The Cutting Room Floor                          - Gigaleak Sprite Rips
 E-man38                                         - Foreground Trees
 LinkStormZ                                      - Extra SMW Themes for Super Mario Maker
+Valtteri                                        - SMW Pipes
+Crafink                                         - SMW Pipeland Set
 GammaV                                          - Extra Tiles in SMWCentral
